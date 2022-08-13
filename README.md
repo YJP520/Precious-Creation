@@ -1,2 +1,3 @@
-# Precious-Deposits-
-It's amazing!
+# First repository.
+---
+*It's amazing!*
